@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <ImageView
+        android:onClick="openFacebook"
         android:layout_gravity="center"
         android:src="@drawable/fb_login"
         android:layout_width="wrap_content"
